@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as Android Developer
+- 🌱 I’m currently learning flutter
+
+<div style="display: flex; flex-direction: column">
+    <div>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=zac4j&count_private=true&show_icons=true" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac4j" />
+      </a>
+    </div>
+</div>
