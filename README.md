@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as Android Developer
-- 🌱 I’m currently learning flutter
+- 🔭 Currently I'm working as Android Developer
+- 🌱 Learning flutter now
+- 🤔 Waiting for a pending layoffs
+- 🥂 Shanghai, have fun
 
 <div style="display: flex; flex-direction: column">
     <div>
