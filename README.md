@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently I'm working as Android Developer
-- 🌱 Learning flutter now
-- 🤔 Waiting for a pending layoffs
+- 🌱 Learning React Native now
+- 🤔 Waiting for pending layoffs
 - 🥂 Shanghai, have fun
 
 <div style="display: flex; flex-direction: column">
