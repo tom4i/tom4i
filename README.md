@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently I'm working as Android Developer
-- 🌱 Learning React Native now
-- 🤔 Waiting for pending layoffs
+- 🌱 Learning the Data Mining now
+- 🤔 Waiting for a pending layoff
 - 🥂 Shanghai, have fun
 
-<div style="display: flex; flex-direction: column">
+<!-- <div style="display: flex; flex-direction: column">
     <div>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=zac4j&count_private=true&show_icons=true" />
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zac4j" />
       </a>
     </div>
-</div>
+</div> -->
