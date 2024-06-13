@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently I'm working as Android Developer
-- 🌱 Learning the Data Mining now
+- 🌱 Studying Machine Learning now
 - 🤔 Waiting for a pending layoff
 - 🥂 Shanghai, have fun
 
