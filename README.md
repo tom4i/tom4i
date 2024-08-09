@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently I'm working as Android Developer
-- 🌱 Studying Machine Learning now
+- 🔭 Android Developer in Finance
+- 🌱 Studying Machine Learning
 - 🤔 Waiting for a pending layoff
 - 🥂 Shanghai, have fun
 
