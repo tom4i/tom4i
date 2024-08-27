@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi friends 👋
 
 <!--
 **zac4j/zac4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
