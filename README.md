@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Android Developer in Finance
 - 🌱 Studying Machine Learning
-- 🤔 Waiting for a pending layoff
+- 😣 ~~Waiting for a pending layoff~~ laid off
 - 🥂 Shanghai, have fun
 
 <!-- <div style="display: flex; flex-direction: column">
