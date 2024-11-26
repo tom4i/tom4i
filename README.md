@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 Android Developer in Finance
 - 🌱 Studying Machine Learning
-- 😣 ~~Waiting for a pending layoff~~ laid off
+- 😣 ~~Waiting for a pending layoff~~
+    - 2024-10-11 ~~laid off~~
+    - 2024-10-31 back to work
 - 🥂 Shanghai, have fun
 
 <!-- <div style="display: flex; flex-direction: column">
