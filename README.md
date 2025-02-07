@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🔭 Android Developer in Finance
 - 🌱 Studying Machine Learning
 - 😣 Layoff board
-    - 2024-12-31 ~~laid off~~
-- 📫 Looking for android-dev job.
+    - 2024-12-31 laid off
+- 📫 Looking for android dev job.
 - 🥂 Shanghai, have fun
 
 <!-- <div style="display: flex; flex-direction: column">
